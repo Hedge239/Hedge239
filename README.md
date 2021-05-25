@@ -2,6 +2,6 @@
 
 I am a new developer, developing between Linux and Windows.
 
-I primarily know C# and C++, but I know a few other languages a little when needed.
+## What codeing languages do I know
 
-I depend mostly on Visual Studio Code for my main development and UE4 for my game development, but I may use other things for codeing when needed.
+I only know a few codeing languages, they are **C#, C++.** I am more focused on C++ then C#, 
