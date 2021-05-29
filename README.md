@@ -11,3 +11,6 @@ I only know a few codeing languages, they are **C#, C++.** I am more focused on 
 
 I mainly focus on games, but I do also make other programs as I practice. Most of my programs will be Open Source. The programs that are not are because I stuck by some licenseing agreement, or I just don't feel like opening my code.
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hedge239)](https://github.com/anuraghazra/github-readme-stats)
+
