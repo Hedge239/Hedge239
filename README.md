@@ -14,3 +14,10 @@ I mainly focus on games, but I do also make other programs as I practice. Most o
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hedge239)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hedge239&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
