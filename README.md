@@ -1,11 +1,12 @@
-# Hi, I am Hedge.
-
-Also known as Game On Everything.
-I am a english developer who also knows japaneese.
-  I mostly develop games by will develop other projects on my free time if I get bored!
-  
-My main game engine is currently unreal engine, but I understant the basics on how to make games with unity or even make my own game engine!
-
+## Greetings and welcome to my profile,
+ 
+ I may have no idea how you got here but enjoy my projects!
+ 
+ Most of my time is spent doing making videogame in Unreal Engine,
+ but I also may do random project from time to time.
+ 
+ -------
+ My primary coding language of choice is C++, but I also know a few other languages.
 
 
 
