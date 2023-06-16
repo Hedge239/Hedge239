@@ -1,7 +1,7 @@
-Hi,
+## Hello Traveler!
 
-I like coding,
+I'm a person, *at least that is what I am told*,
 
-I do a bit of everything,
+I like to do a bit of everything,
 
-Back to work I go!
+Now go and explore the things I most likely made on an impulse!
