@@ -7,3 +7,4 @@ I'm a person, *at least that is what I am told*, I enjoy doing a bit of everythi
 - **C++** | [JACE-PLUGINS](https://github.com/Hedge239/JACEplugins) - Plugins for the [JACE](https://github.com/Hedge239/JustAnotherCodeEditor) code editor
 #### Libraries
 - **C++** | [ZephyrUI](https://github.com/Hedge239/ZephyrUI) - Cross-platform GUI library
+- **C++** | [NeosContentPackager](https://github.com/Hedge239/NeosContentPackager) - A simple way of creating and reading binary blobs
